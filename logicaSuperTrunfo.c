@@ -88,3 +88,4 @@ int main() {
     printf("a Carte 2 venceu com PIB per capita de %f",pib2/populacao2);}
     else{
     printf("carta 1 e carta 2 empataram com PIB per capita igual");}
+    
